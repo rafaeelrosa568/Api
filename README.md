@@ -21,5 +21,4 @@ JWT (JSON Web Tokens): Para autenticação e autorização dos usuários.
 
 # Configuração
 Clone este repositório.
-Instale as dependências usando npm install.
 Configure as variáveis de ambiente (como a URL do banco de dados e a chave secreta para geração de tokens JWT).
