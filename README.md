@@ -8,10 +8,15 @@ Gerar PDF: A API permite que os usuários gere o arquivo para imprimir.
 
 # Tecnologias Utilizadas
 Intelijj.
+
 Linguagem JAVA
+
 SpringBoot
+
 Maven
+
 MySql: Banco de dados NoSQL para armazenar as informações das ordens de serviço.
+
 JWT (JSON Web Tokens): Para autenticação e autorização dos usuários.
 
 # Configuração
