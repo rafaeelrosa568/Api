@@ -1,0 +1,14 @@
+CREATE TABLE servicos (
+
+  id BIGINT NOT NULL AUTO_INCREMENT,
+  cliente VARCHAR(100) NOT NULL,
+  cnpj_cpf VARCHAR(30) NOT NULL,
+  telefone VARCHAR(20) NOT NULL,
+  endereco VARCHAR(100) NOT NULL,
+  tipo_servico VARCHAR(100) NOT NULL,
+  valor DECIMAL(10, 2) NOT NULL,
+  os VARCHAR(300) NOT NULL,
+
+  PRIMARY KEY (id)
+
+);
