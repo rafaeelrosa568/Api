@@ -3,6 +3,7 @@ Este repositório contém o código-fonte do backend para a API de Ordem de Serv
 
 # Funcionalidades Principai
 Cadastro de Ordens de Serviço: Os usuários podem criar novas ordens de serviço, especificando detalhes como cliente, endereço, tipo de serviço, valor e descrição do problema.
+
 Gerar PDF: A API permite que os usuários gere o arquivo para imprimir.
 
 # Tecnologias Utilizadas
